@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\senai.hroads.webApi",
+    "\\senai.hroads.webApi\\Context",
+    "\\senai.hroads.webApi\\Domains",
+    "\\senai.hroads.webApi\\Migrations",
+    "\\senai.hroads.webApi\\obj"
+  ],
+  "SelectedNode": "\\senai.hroads.webApi\\Domains\\TipoUsuario.cs",
+  "PreviewInSolutionExplorer": false
+}
